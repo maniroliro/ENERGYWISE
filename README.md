@@ -29,12 +29,13 @@ Incluem:
 
 # 📦 Estrutura do Projeto
 
+```yaml
 data/consumo_energia.csv
 src/analise_energywise.py
 outputs/grafico_consumo.png
 outputs/grafico_picos.png
 outputs/relatorio_resultados.md
-
+```
 ---
 
 # ▶️ Como Executar
